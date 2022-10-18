@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+div.navDiv {
+    height: 30px;
+    border: 3px solid #00205c;
+    background-color: #1d90cf;
+    display:flex;
+}
+
+#image {
+    height: 30px;
+    width: 30px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+}
+
+div.MyJsPanel {
+    margin: 10px;
+}
+
+.toListen {
+    border:15px;
+}
+
+.allLocations{
+    margin-left: 5px;
+}
+
+.addButton{
+    margin-left: 5px;
+}
+
+.queryLoc {
+    margin-left: 5px;
+}
+.modifyLoc {
+    margin-left: 5px;
+}
+
+div.editPanel{
+    margin: 10px;
+
+}
